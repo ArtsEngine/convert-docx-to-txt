@@ -1,4 +1,4 @@
-//step 1: in terminal, navigate to target directory 
+//step 1: in terminal, navigate to target directory ">cd name/of/full/path/to/directory"
 
 //the command below finds all docx files recursively in the current directory and converts them to txt
 
